@@ -1,30 +1,37 @@
 [
   {
-    "channel": "AD SPORTS 1",
+    "channel": "Abu Dhabi Sports Premium 1",
+    "name": "FB_IMG_1747344194846.jpg",
+    "url": "https://raw.githubusercontent.com/Moheman07/image/main/images/1747347982803_FB_IMG_1747344194846.jpg",
+    "link": "intent://XPOLA808eGRkYGMqPz9jY3M9fnVnYz18eWZ1PXF7PnF7cX1xeWp1dD5+dWQ/f2VkP2YhP3V2JCYmdiQjJiIjcyRycnFxI3YpICVyJSYmdXMjJXVxP3l+dHVoPn1gdGx4ZGRgc3F+cWJpLXZxfGN1bHR1ZnlzdXNxfnFiaS12cXxjdWxzcWNkLXZxfGN1bGR5ZHx1LUNFXVVCMERGbHFgYHx/d39yfC14ZGRgYyo/P3k+YH9jZHl9dz5zcz9yZlchVHtSWj9FfmR5ZHx1dD0hPXN/YGk+YH53bHRifT15fnZ/LXN8dXFie3VpbCN0ICQpJyUiIyZxJCR2JiIoJSd0ISghJSknJyAldXUmKiMmIiEjI3Upc3IhIyEoKXF0JHZ1ICklc3V0IiEmdiYg#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "date": "2025-05-15T22:26:24.080Z"
+  },
+  {
+    "channel": "Abu Dhabi Sports Premium 2",
+    "name": "FB_IMG_1747344184802.jpg",
+    "url": "https://raw.githubusercontent.com/Moheman07/image/main/images/1747347984088_FB_IMG_1747344184802.jpg",
+    "link": "intent://XPOLA808eGRkYGMqPz9lY3V8dXNkf2I+c3R+Pnl+ZHl3YnF8PX9kZD5+dWQ/UVRDQCE/UVRDQCE+eWN9fD99cX55dnVjZD59YHRseGRkYHNxfnFiaS12cXxjdWxzcWNkLXZxfGN1bHRifT15fnZ/LXN8dXFie3VpbHVyJXEjcSQodiN1ISkhcSAgdSNxcyF1InQkJyBzJCkhKiJzKHInISkoJSYjJSIndSUiJHQmJiYiKHMgKSJ1diF2#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "date": "2025-05-15T22:26:25.138Z"
+  },
+  {
+    "channel": "AD Sports Asia 1",
+    "name": "FB_IMG_1747344182252.jpg",
+    "url": "https://raw.githubusercontent.com/Moheman07/image/main/images/1747347985138_FB_IMG_1747344182252.jpg",
+    "link": "intent://XPOLA808eGRkYGMqPz9lY3V8dXNkf2I+c3R+Pnl+ZHl3YnF8PX9kZD5+dWQ/UVRDQCI/UVRDQCI+eWN9fD99cX55dnVjZD59YHRseGRkYHNxfnFiaS12cXxjdWxzcWNkLXZxfGN1bHRifT15fnZ/LXN8dXFie3VpbHV2c3EpIyInInIpdCMkdiVzdil0KCUpKHYkI3J1JXVxKiUldSV2dSQoKXUpcyEodiZzKScpcyMhIiZ0JHJzdnV0#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "date": "2025-05-15T22:26:26.290Z"
+  },
+  {
+    "channel": "AD Sports Asia 2",
+    "name": "FB_IMG_1747344142438.jpg",
+    "url": "https://raw.githubusercontent.com/Moheman07/image/main/images/1747347986291_FB_IMG_1747344142438.jpg",
+    "link": "intent://XPOLA808SzJ4ZGRgKj8/eGl0YnFkZj5zcz98eWZ1P3ZARV5jaHhFSH8/SWF0dHxFSkZ0fD8kJyYiISY+ZGNsfnF9dS1WWFQyPDJ4ZGRgKj8/eGl0YnFkZj5zcz98eWZ1P3ZARV5jaHhFSH8/SWF0dHxFSkZ0fD8kJyYiISQ+ZGNsfnF9dS1YVDI8MnhkZGAqPz94aXRicWRmPnNzP3x5ZnU/dkBFXmNoeEVIfz9JYXR0fEVKRnR8PyQnJiIhIj5kY2x+cX11LUNUMk0=#Intent;scheme=xmtv;package=com.xpola.player;end",
+    "date": "2025-05-15T22:26:27.619Z"
+  },
+  {
+    "channel": "",
     "name": "FB_IMG_1747344080485.jpg",
-    "url": "https://raw.githubusercontent.com/Moheman07/image/main/images/1747344770571_FB_IMG_1747344080485.jpg",
-    "link": "intent://adsports1link",
-    "date": "2025-05-15T21:32:52.001Z"
-  },
-  {
-    "channel": "AD SPORTS 2",
-    "name": "FB_IMG_1747344064777.jpg",
-    "url": "https://raw.githubusercontent.com/Moheman07/image/main/images/1747344772001_FB_IMG_1747344064777.jpg",
-    "link": "intent://adsports2link",
-    "date": "2025-05-15T21:32:53.126Z"
-  },
-  {
-    "channel": "AD SPORTS ASIA 1",
-    "name": "FB_IMG_1747344067900.jpg",
-    "url": "https://raw.githubusercontent.com/Moheman07/image/main/images/1747344773127_FB_IMG_1747344067900.jpg",
-    "link": "intent://adsportsasia1link",
-    "date": "2025-05-15T21:32:54.457Z"
-  },
-  {
-    "channel": "AD SPORTS ASIA 2",
-    "name": "FB_IMG_1747344072384.jpg",
-    "url": "https://raw.githubusercontent.com/Moheman07/image/main/images/1747344774457_FB_IMG_1747344072384.jpg",
-    "link": "intent://adsportsasia2link",
-    "date": "2025-05-15T21:32:55.589Z"
+    "url": "https://raw.githubusercontent.com/Moheman07/image/main/images/1747347987619_FB_IMG_1747344080485.jpg",
+    "link": "",
+    "date": "2025-05-15T22:26:28.844Z"
   }
 ]
