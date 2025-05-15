@@ -1,65 +1,30 @@
 [
   {
-    "channel": "SSC 1",
-    "name": "FB_IMG_1747340416929.jpg",
-    "url": "https://raw.githubusercontent.com/Moheman07/image/main/images/1747344304125_FB_IMG_1747340416929.jpg",
-    "link": "intent://ssc1link",
-    "date": "2025-05-15T21:25:05.355Z"
-  },
-  {
-    "channel": "SSC 2",
-    "name": "FB_IMG_1747344067900.jpg",
-    "url": "https://raw.githubusercontent.com/Moheman07/image/main/images/1747344305356_FB_IMG_1747344067900.jpg",
-    "link": "intent://ssc2link",
-    "date": "2025-05-15T21:25:06.488Z"
-  },
-  {
-    "channel": "SSC 3",
-    "name": "FB_IMG_1747344064777.jpg",
-    "url": "https://raw.githubusercontent.com/Moheman07/image/main/images/1747344306488_FB_IMG_1747344064777.jpg",
-    "link": "intent://ssc3link",
-    "date": "2025-05-15T21:25:07.709Z"
-  },
-  {
-    "channel": "SSC 4",
-    "name": "FB_IMG_1747344072384.jpg",
-    "url": "https://raw.githubusercontent.com/Moheman07/image/main/images/1747344307709_FB_IMG_1747344072384.jpg",
-    "link": "intent://ssc4link",
-    "date": "2025-05-15T21:25:09.079Z"
-  },
-  {
-    "channel": "SSC 5",
+    "channel": "AD SPORTS 1",
     "name": "FB_IMG_1747344080485.jpg",
-    "url": "https://raw.githubusercontent.com/Moheman07/image/main/images/1747344309079_FB_IMG_1747344080485.jpg",
-    "link": "intent://ssc5link",
-    "date": "2025-05-15T21:25:10.169Z"
+    "url": "https://raw.githubusercontent.com/Moheman07/image/main/images/1747344770571_FB_IMG_1747344080485.jpg",
+    "link": "intent://adsports1link",
+    "date": "2025-05-15T21:32:52.001Z"
   },
   {
-    "channel": "SSC EXTRA 1",
-    "name": "FB_IMG_1747344142438.jpg",
-    "url": "https://raw.githubusercontent.com/Moheman07/image/main/images/1747344310169_FB_IMG_1747344142438.jpg",
-    "link": "intent://sscextra1link",
-    "date": "2025-05-15T21:25:11.397Z"
+    "channel": "AD SPORTS 2",
+    "name": "FB_IMG_1747344064777.jpg",
+    "url": "https://raw.githubusercontent.com/Moheman07/image/main/images/1747344772001_FB_IMG_1747344064777.jpg",
+    "link": "intent://adsports2link",
+    "date": "2025-05-15T21:32:53.126Z"
   },
   {
-    "channel": "SSC EXTRA 2",
-    "name": "FB_IMG_1747344182252.jpg",
-    "url": "https://raw.githubusercontent.com/Moheman07/image/main/images/1747344311398_FB_IMG_1747344182252.jpg",
-    "link": "intent://sscextra2link",
-    "date": "2025-05-15T21:25:12.443Z"
+    "channel": "AD SPORTS ASIA 1",
+    "name": "FB_IMG_1747344067900.jpg",
+    "url": "https://raw.githubusercontent.com/Moheman07/image/main/images/1747344773127_FB_IMG_1747344067900.jpg",
+    "link": "intent://adsportsasia1link",
+    "date": "2025-05-15T21:32:54.457Z"
   },
   {
-    "channel": "SSC EXTRA 3",
-    "name": "FB_IMG_1747344184802.jpg",
-    "url": "https://raw.githubusercontent.com/Moheman07/image/main/images/1747344312443_FB_IMG_1747344184802.jpg",
-    "link": "intent://sscextra3link",
-    "date": "2025-05-15T21:25:13.528Z"
-  },
-  {
-    "channel": "",
-    "name": "FB_IMG_1747344194846.jpg",
-    "url": "https://raw.githubusercontent.com/Moheman07/image/main/images/1747344313528_FB_IMG_1747344194846.jpg",
-    "link": "",
-    "date": "2025-05-15T21:25:14.775Z"
+    "channel": "AD SPORTS ASIA 2",
+    "name": "FB_IMG_1747344072384.jpg",
+    "url": "https://raw.githubusercontent.com/Moheman07/image/main/images/1747344774457_FB_IMG_1747344072384.jpg",
+    "link": "intent://adsportsasia2link",
+    "date": "2025-05-15T21:32:55.589Z"
   }
 ]
