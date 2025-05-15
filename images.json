@@ -1,22 +1,26 @@
 [
   {
-    "channel": "SSC 1",
-    "url": "https://raw.githubusercontent.com/Moheman07/image/main/images/1747306038349_photo_٢٠٢٥-٠٥-١٥_٠٩-٤٠-٥٣.jpg",
-    "stream_url": "https://ssc-stream.com/1"
+    "channel": "",
+    "name": "photo_٢٠٢٥-٠٥-١٥_٠٩-٤٠-٥٣.jpg",
+    "url": "https://raw.githubusercontent.com/Moheman07/image/main/images/1747306405130_photo_٢٠٢٥-٠٥-١٥_٠٩-٤٠-٥٣.jpg",
+    "date": "2025-05-15T10:53:26.155Z"
   },
   {
-    "channel": "",
-    "url": "https://raw.githubusercontent.com/Moheman07/image/main/images/1747306039251_Screenshot_1.jpg",
-    "stream_url": ""
+    "channel": "SSC 2",
+    "name": "Screenshot_1.jpg",
+    "url": "https://raw.githubusercontent.com/Moheman07/image/main/images/1747306406155_Screenshot_1.jpg",
+    "date": "2025-05-15T10:53:27.046Z"
   },
   {
-    "channel": "",
-    "url": "https://raw.githubusercontent.com/Moheman07/image/main/images/1747306040156_Screenshot_2.jpg",
-    "stream_url": ""
+    "channel": "SSC 3",
+    "name": "Screenshot_2.jpg",
+    "url": "https://raw.githubusercontent.com/Moheman07/image/main/images/1747306407046_Screenshot_2.jpg",
+    "date": "2025-05-15T10:53:27.960Z"
   },
   {
-    "channel": "",
-    "url": "https://raw.githubusercontent.com/Moheman07/image/main/images/1747306041020_Screenshot_3.jpg",
-    "stream_url": ""
+    "channel": "Bein Sport 1",
+    "name": "Screenshot_3.jpg",
+    "url": "https://raw.githubusercontent.com/Moheman07/image/main/images/1747306407960_Screenshot_3.jpg",
+    "date": "2025-05-15T10:53:28.804Z"
   }
 ]
